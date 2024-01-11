@@ -1,0 +1,10 @@
+Car Brand Poetry
+
+BMW
+MERCEDES
+AUDI
+INFINITI
+TOYOTA
+TESLA
+
+These are car brands.
